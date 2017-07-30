@@ -11,6 +11,8 @@ This repository will contain small hardware/PC experiments
 
 # Hp Think Client t5740
 
+# Vensmile PC z3735f
+
 # Clone Workstation 
 - link : https://pcpartpicker.com/b/ysJ8TW
 
