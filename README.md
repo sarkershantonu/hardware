@@ -7,6 +7,9 @@ This repository will contain small hardware/PC experiments
 
 # Raspberri Pi Zero W
 
-# Zbox 
+# Zotac ZBOX-IQ01-PLUS 
+
+# Clone Workstation 
+- link : https://pcpartpicker.com/b/ysJ8TW
 
 
