@@ -9,6 +9,8 @@ This repository will contain small hardware/PC experiments
 
 # Zotac ZBOX-IQ01-PLUS 
 
+# Hp Think Client t5740
+
 # Clone Workstation 
 - link : https://pcpartpicker.com/b/ysJ8TW
 
