@@ -6,6 +6,8 @@ This repository will contain small hardware/PC experiments
 # Raspberri Pi 3B
 
 # Raspberri Pi Zero W
+- Enable access through SSH local pi@raspberrypi.local
+- Full Tutorial Link https://www.youtube.com/watch?v=xj3MPmJhAPU
 
 # Zotac ZBOX-IQ01-PLUS 
 
