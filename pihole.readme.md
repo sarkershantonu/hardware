@@ -1,6 +1,6 @@
 # This All you need to know 
 
-#Step 0
+# Step 0
 - Make sure you have CURL , so better setup ubuntu with LAMP pre installed. 
 - From your router , made fixed IP to connected pc for piole
 
