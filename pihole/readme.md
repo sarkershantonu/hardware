@@ -23,7 +23,7 @@ use this command to change default password.
 pihole -a -p
 
 # Admin console 
-http://<Your pihole pc IP>/admin
+http://your_pihole_pc_io/admin
 use the password that you changed to 
 
  - I do not use pihole DHCP for new network. 
