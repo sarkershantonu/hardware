@@ -6,14 +6,20 @@
 - From your router , made fixed IP to connected pc for piole
 
 # Setup
+in you pihole PC (or ssh tunnel) 
+
 curl -sSL https://install.pi-hole.net | bash
 
 And follow up instructions as CLI says. I follow 
 1. IP v4
 2. Google DNS 
-3. static 
+3. static IP address 
+4. Admin console instal + logging 
 
 # Change Admin UI password 
+After installation complete, you see a predefined password 
+use this command to change default password. 
+
 pihole -a -p
 
 # Admin console 
