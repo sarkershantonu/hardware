@@ -1,2 +1,0 @@
-
-# Update with hakintosh info
