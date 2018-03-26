@@ -25,12 +25,13 @@ pihole -a -p
 # Admin console 
 http://your_pihole_pc_ip/admin
 use the password that you changed to 
+- I do not use pihole DHCP for new network. 
+- I use DNS changer in mobile/tab & manually change DNS 
+- I also forward port in my router so that I can access my pihole form outside home. 
 
- - I do not use pihole DHCP for new network. 
+![home](pihole_home.JPG)
 
- - I use DNS changer in mobile/tab & manually change DNS 
- 
-  - I also forward port in my router so that I can access my pihole form outside home. 
+![log](pihole_example_blocking.JPG)
 
 # Access From any where
 - You may configure your router for port forwarding on port 53(default TCP & UDP port for DNS) to access from any where with you router IP. 
