@@ -9,6 +9,10 @@ I am using 8gb/DDR3/1600Mhz with 1TB/500GB SSHD
 - Wifi (use USB wifi) 
 - Sound Card (I use USB Sound Card)
 
+# Aulternatives
+- Use generic 3d usb sound card 1-2$
+
+
 # Working
 - Dual Display (1440P)
 - LAN
