@@ -31,3 +31,9 @@ requires 1+ GB
 - From another PC , goto http://your_open_media_vault_pc_ip_address:80
 - use "admin" as username 
 - use "openmediavault" password 
+
+# Step 5 : Best Practices
+- change web admin password
+- mount volumns
+- setup RAID as you need
+- Use SAMBA for local share
