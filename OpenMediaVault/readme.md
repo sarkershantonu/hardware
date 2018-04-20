@@ -28,6 +28,6 @@ This will install open media vault
 requires 1+ GB 
 
 # Step 4 : Access from URL
-- From another PC , goto http://<ip>:80
+- From another PC , goto http://your_open_media_vault_pc_ip_address:80
 - use "admin" as username 
 - use "openmediavault" password 
