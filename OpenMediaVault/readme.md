@@ -1,7 +1,7 @@
 # OpenMediaVault 
-https://www.openmediavault.org/download.html
+Link : https://www.openmediavault.org
 
-# installing with Debian
+# Installing with Debian
 Due to spaca limitation to my thin clien flash (2GB) I had to install debian minimum with no swap memory allowing 2GB for debian and open media vault. 
 
 # Step 1 : Installation
@@ -13,10 +13,21 @@ Note :
 - No UI packages
 - NO swap as I am using 8GB ram
 
-# Step 2 : Add Sources
+# Step 2 : Add Sources for openmediavault 3.0
 - Log in via ssh to your pc 
 - Make your self root (su command) 
 - put this openmediavault.list in /etc/apt/sources.list.d/ 
 
 # Step 3 : install open media valut
-- Copy this 
+- Copy this omv-install.sh to home directory
+- type command 
+
+sh omv-install.sh 
+
+This will install open media vault 
+requires 1+ GB 
+
+# Step 4 : Access from URL
+- From another PC , goto http://<ip>:80
+- use "admin" as username 
+- use "openmediavault" password 
