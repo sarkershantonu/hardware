@@ -5,4 +5,4 @@
 
 # Restore
 
-qmrestore <backup file> <id>
+qmrestore _backup_file _id_
