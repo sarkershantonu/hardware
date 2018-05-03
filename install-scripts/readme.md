@@ -1,1 +1,1 @@
-#This folder contains all installation scripts
+# This folder contains all installation scripts
