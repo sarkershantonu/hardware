@@ -1,13 +1,13 @@
 # Webmin setiing up
 
-
+- Add Source 
 sudo sh -c 'echo "deb https://download.webmin.com/download/repository sarge contrib" >> /etc/apt/sources.list'
 
+- Get the Key
 wget -q http://www.webmin.com/jcameron-key.asc -O- | sudo apt-key add -
 
-sudo apt-get update
-
-sudo apt-get install webmin
+- Update and install
+sudo apt-get update && sudo apt-get install webmin
 
 # Ubuntu only post steps (set root user password)
 - Search installation directory (usually /usr/share/webmin) 
@@ -21,7 +21,6 @@ sudo find / -name  miniserv.conf
 cd /usr/share/webmin
 
 sudo /changepass.pl /etc/webmin/ root your_password
-
 
 # for Debian 
 
