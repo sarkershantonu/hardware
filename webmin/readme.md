@@ -35,3 +35,4 @@ apt install webmin
 # Login from web
 https://your_pc_ip:10000
 user name root & your_password
+ 
