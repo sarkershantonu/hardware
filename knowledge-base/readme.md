@@ -9,3 +9,6 @@
 
 # Overall Tips : 
 - https://www.youtube.com/watch?v=-plesrt8ZCs
+
+# Assembly 
+https://www.youtube.com/watch?v=RXZrWqCT7R0
