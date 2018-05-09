@@ -12,7 +12,8 @@
 -
 
 # Hardware spec : 
+http://www.parkytowers.me.uk/thin/hp/t610/index.shtml
 
-# inspiration 
-- openmediavault 
--Gunbee 
+# Inspiration 
+- openmediavault : https://www.openmediavault.org/
+- Gunbee : https://www.crowdsupply.com/gnubee/personal-cloud-1
