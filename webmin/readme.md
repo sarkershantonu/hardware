@@ -1,4 +1,4 @@
-# Webmin setiing up
+# Webmin setting up
 
 - Add Source 
 sudo sh -c 'echo "deb https://download.webmin.com/download/repository sarge contrib" >> /etc/apt/sources.list'
