@@ -27,16 +27,17 @@ I am using 8gb/DDR3/1600Mhz with 1TB/500GB SSHD
 
 A. Download El Capitan Post-Install Tools (https://www.tonymacx86.com/resources/el-capitan-post-install-tools.294/) 
 
+--- Boot loader section----
 1. Install Clover_v2.3k_r3320-UEFI.pkg
-
 2. Install CustoMac Essentials.pkg
 
 B. Download Clover configurator : (https://www.tonymacx86.com/resources/clover-configurator.335/)
 - From SMBIOS , use wizard to select select MacBook Pro Retina(11,2) - core i7/i5 haswell
-- You may save it 
+- Save it to local disk
 - Reboot 
 
 This will be make your hard drive rebootable. 
+---Driver section---
 
 C. Download Multibeast 8.2.3 (https://www.tonymacx86.com/resources/multibeast-el-capitan-8-2-3.319/) and run it. I configured like 
 - UEFI under quick start
