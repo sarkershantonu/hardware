@@ -37,6 +37,7 @@ B. Download Clover configurator : (https://www.tonymacx86.com/resources/clover-c
 - Reboot 
 
 This will be make your hard drive rebootable. 
+
 ---Driver section---
 
 C. Download Multibeast 8.2.3 (https://www.tonymacx86.com/resources/multibeast-el-capitan-8-2-3.319/) and run it. I configured like 
