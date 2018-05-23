@@ -7,7 +7,7 @@
 1. Display flikers
 2. No LAN, sound 
 
-# SOLVE, use driver from multibeast MultiBeast - High Sierra 10.3.0 
+# SOLVE, use driver from MultiBeast - High Sierra 10.3.0 
 
 # LAN 
 intelMausiEthernet v2.4.0 
