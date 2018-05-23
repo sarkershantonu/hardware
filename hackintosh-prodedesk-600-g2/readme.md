@@ -20,7 +20,7 @@ VoodooHDA v2.8.9
 From multibeast 8.2 (el capitan) use HD 530 drviver 
 From multibeast 10.3 (high serra) use intel driver patch to avoid fliker 
 
-Note : for hd resolution, not problem. But, as MAC(el captitan) does not support 4k resolution,you will see a black bar in bottom.  
+Note : for hd resolution, not problem. But, as MAC(el captitan) does not support 4k resolution,you will see a black bar in bottom. I am still looking into solving this. 
 
 # Need more investigation 
 
