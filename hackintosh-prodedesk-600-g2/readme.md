@@ -10,11 +10,15 @@
 # SOLVE, use driver from MultiBeast - High Sierra 10.3.0 
 
 # LAN 
-intelMausiEthernet v2.4.0 
+- intelMausiEthernet v2.4.0 
+- intelMausiEthernet v2.1.0d3 
 from system, you should see => AppleIntelE1000e.kext
 
-# Audio : 
-VoodooHDA v2.8.9
+# Audio : Any one 
+- VoodooHDA v2.8.9 (from high sierra)
+- VoodooHDA v2.8.6
+- VoodooHDA v2.8.8
+
 
 # Video
 From multibeast 8.2 (el capitan) use HD 530 drviver 
