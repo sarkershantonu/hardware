@@ -22,6 +22,9 @@ From multibeast 10.3 (high serra) use intel driver patch to avoid fliker
 
 Note : for hd resolution, not problem. But, as MAC(el captitan) does not support 4k resolution,you will see a black bar in bottom. I am still looking into solving this. 
 
+does not work : 
+https://www.tonymacx86.com/threads/hdmi-dvi-black-border-fix-2014.131055/
+
 # Need more investigation 
 
 https://www.tonymacx86.com/threads/success-hp-elitedesk-800-g2-mini-35w-pc.251070/
