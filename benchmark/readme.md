@@ -1,6 +1,6 @@
 # Pc benchmark 
 
-# ida 64 : 
+# aida64 : 
 https://www.aida64.com/downloads
 
 # Linux : 
