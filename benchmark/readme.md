@@ -8,6 +8,9 @@
 # Geekbench 4 
 - https://www.geekbench.com/
 
+# cinebench R15
+- https://www.maxon.net/en/products/cinebench/
+
 # Linux : 
 # Stress tool : 
  - https://people.seas.harvard.edu/~apw/stress/
