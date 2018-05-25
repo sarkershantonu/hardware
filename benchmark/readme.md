@@ -8,6 +8,11 @@
 5. Overall all together
 
 # Simulation performance 
+1. CAD
+2. Rendering
+3. Gaming (games)
+4. Caffe (Deep Learning) 
+5. Tensor
 
 # aida64 : 
 - https://www.aida64.com/downloads
