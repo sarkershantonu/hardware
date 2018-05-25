@@ -1,5 +1,14 @@
 # Pc benchmark 
 
+# Catagoty 
+1. CPU 
+2. GPU
+3. RAM
+4. Disk
+5. Overall all together
+
+# Simulation performance 
+
 # aida64 : 
 - https://www.aida64.com/downloads
 
