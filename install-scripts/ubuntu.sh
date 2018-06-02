@@ -1,7 +1,7 @@
 # Need to run all as sudo 
 apt-get -y update
 #for chrome stable
-wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key -y add - 
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - 
 sudo sh -c 'echo "deb https://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
 
 # for oracle jdk8
