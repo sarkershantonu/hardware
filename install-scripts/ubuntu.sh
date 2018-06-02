@@ -6,7 +6,7 @@ sh -c 'echo "deb https://dl.google.com/linux/chrome/deb/ stable main" >> /etc/ap
 
 
 apt-get -y update && apt-get -y upgrade
-apt-get -y install default-jdk git maven nodejs gradle ant curl chromium-browser google-chrome-stable smbclient software-properties-common
+apt-get -y install default-jdk git maven nodejs gradle ant curl chromium-browser google-chrome-stable smbclient software-properties-common p7zip-full
 
 # for oracle jdk8
 add-apt-repository -y ppa:webupd8team/java
