@@ -16,4 +16,8 @@ use address of you host and port 6000
 
 # Notes : 
 - As all VNC start with 5900, when you add argument, it adds up. 
-Like in example, i did 99 with argument that makes 5900+100=6000 as my access port
+
+Like in example, i did 100 with argument that makes 5900+100=6000 as my access port
+
+
+![original](5_vnc.PNG)
