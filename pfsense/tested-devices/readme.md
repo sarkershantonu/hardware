@@ -6,3 +6,7 @@
 
 # pfsense x86
 - MSI/Smartvue WindBOX II Ms-9a25 
+
+# Lan Cards 
+1. Broadcom 5709 
+2. Broadcom built
