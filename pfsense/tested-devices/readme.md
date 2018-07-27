@@ -21,3 +21,4 @@ Contains lists of PC systems that I installed pfsense on
 
 # A better Approach
 - See compatibility lists of LAN cards with pfsense (freeBSD)
+- See Hardware requirements , a old XEON (before 2012) will be cheaper. Use ebay for better price. 
