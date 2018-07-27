@@ -18,3 +18,6 @@ Contains lists of PC systems that I installed pfsense on
   - Good when all set up
   - not Good when I apply new settings or rules. It works slow and need to reboot several times. 
 4. Realtek Built in Ms-9a25 > it is slow for a device but works smoodth.  
+
+# A better Approach
+- See compatibility lists of LAN cards with pfsense (freeBSD)
