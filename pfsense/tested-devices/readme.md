@@ -1,4 +1,5 @@
 # Tested devices
+Contains lists of PC systems that I installed pfsense on 
 
 # pfsense x64 on All in one device
 - Datto 1000 : dual NIC built in 
