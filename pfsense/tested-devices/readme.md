@@ -19,6 +19,10 @@ Contains lists of PC systems that I installed pfsense on
   - not Good when I apply new settings or rules. It works slow and need to reboot several times. 
 4. Realtek Built in Ms-9a25 > it is slow for a device but works smoodth.  
 
-# A better Approach
+# A better Approach for regular use
 - See compatibility lists of LAN cards with pfsense (freeBSD)
 - See Hardware requirements , a old XEON (before 2012) will be cheaper. Use ebay for better price. 
+
+# For Home use or learning 
+- Thin clents are cheap and conveninet for home learning.
+- If you are want to use as main router, better you need to have backup unit.
