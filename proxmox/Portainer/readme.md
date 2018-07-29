@@ -12,3 +12,7 @@ docker run -d -p 9000:9000 -v /root/portainer/data:/data -v /var/run/docker.sock
 
 - Resume initial setup accordingly 
 
+it will look like this 
+
+![portainer first look](docker_visual.JPG)
+
