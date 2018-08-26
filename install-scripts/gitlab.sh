@@ -1,6 +1,6 @@
 #Git Lab 
 apt-get update
-apt-get install -y curl openssh-server ca-certificates postfix
+apt-get install -y git curl smbclient software-properties-common p7zip-full cifs-utils openssh-server ca-certificates postfix
 
 #Configure mail server before installtion, i used to skip. 
 #gitlab-ctl reconfigure
