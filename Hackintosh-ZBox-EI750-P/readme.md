@@ -43,10 +43,14 @@ And install it. It will take 2/3 min. And you are done.
 
 # Finally : Its running 
 
-![System](system.jpg)
+![System](sys.jpg)
 
-![Sound](sound.jpg)
+![Sound](audio.jpg)
+
+![bluetooth](bt.png)
+
+![Display](display.jpg)
 
 ![Display](GPU.jpg)
 
-![HDD](hdd.jpg)
+![LAN](lan.jpg)
