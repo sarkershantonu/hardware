@@ -51,4 +51,4 @@ And install it. It will take 2/3 min. And you are done.
 
 ![Display-GPU](GPU.png)
 
-![LAN](lan.jpg)
+![LAN](lan.png)
