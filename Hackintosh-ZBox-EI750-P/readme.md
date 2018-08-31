@@ -28,15 +28,11 @@ This will be make your hard drive rebootable.
 
 C. Download Multibeast 8.2.3 (https://www.tonymacx86.com/resources/multibeast-el-capitan-8-2-3.319/) and run it. I configured like 
 - UEFI under quick start
-- Drivers/Audio : ACL 269
+- Drivers/Audio : Vodoo
 - Drivers/Network : Realtek 8111v2.2.1
 - Drivers/USB : Support for 7/8/9 series
 - Boot loader UEFI 
 - Customize/Definations/Mac Pro Ratina 11,2
-
-NOTE : if you have Zbox IQ01 Plus, Choose Audio ACL892 + HDMI Optional for HD 4600. Only this is changing. All are same 
-
-![Config](multibeast.jpg)
 
 And install it. It will take 2/3 min. And you are done. 
 
