@@ -1,7 +1,7 @@
-# Hackintosh Zotac-Mini-PC-ZBox-EI750-P-i7-4770R-3-2-3-9GHz with Iris-Pro-5200
+# Hackintosh ZBox-EI750-P
 This will help you install hakintosh (El Capitan) in Zotac Pro 4770R. 
 
-I am using 4gb/DDR3/1600Mhz with 500Gb 7200RPM hard drive. 
+I am using 8gb/DDR3/1600Mhz with 16Gb mSata SSD.
 
 Note : Wifi will not work, so I am using LAN (you need to change default wifi device compatible with MACs) 
 
@@ -9,7 +9,7 @@ Note : Wifi will not work, so I am using LAN (you need to change default wifi de
 
 - Read installation from here : https://www.tonymacx86.com/threads/unibeast-install-os-x-el-capitan-on-any-supported-intel-based-pc.172672/
 
-# Zotac Pro Specific : 
+# Zotac Specific : 
 
 (After Step 4) I am following Alternate steps 6
 
@@ -28,13 +28,15 @@ This will be make your hard drive rebootable.
 
 C. Download Multibeast 8.2.3 (https://www.tonymacx86.com/resources/multibeast-el-capitan-8-2-3.319/) and run it. I configured like 
 - UEFI under quick start
-- Drivers/Audio : Vodoo
-- Drivers/Network : Realtek 8111v2.2.1
-- Drivers/USB : Support for 7/8/9 series
+- Drivers/Audio : Vodoo latest (i will add specific)
+- Drivers/Network : intel(i will add specific)
 - Boot loader UEFI 
 - Customize/Definations/Mac Pro Ratina 11,2
 
 And install it. It will take 2/3 min. And you are done. 
+
+working : Sound, Bluetooth, LAN
+GPU is not very good at 4k (flickers, need patch), but good in 1080p.
 
 
 # Finally : Its running 
