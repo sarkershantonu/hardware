@@ -12,7 +12,6 @@ I am using 8gb/DDR3/1600Mhz with 1TB/500GB SSHD
 - Use generic 3d usb sound card 1-2$
 - Mac supported wifi like Aukey wifi 
 
-
 # Working
 - Dual Display (1440P)
 - LAN
@@ -49,6 +48,7 @@ C. Download Multibeast 8.2.3 (https://www.tonymacx86.com/resources/multibeast-el
 
 And install it. It will take 2/3 min. And you are done. 
 
+for sound only you need latest drivers from high sierra => https://www.tonymacx86.com/resources/multibeast-high-sierra-10-3-0.388/
 
 # Finally : Its running 
 
@@ -56,6 +56,9 @@ And install it. It will take 2/3 min. And you are done.
 
 ![LAN](lan.JPG)
 
+![AUDIO](sound.png)
+
 ![Display](display.JPG)
+
 ![Hardware Overview](hw_overvorew.JPG)
 
