@@ -7,7 +7,6 @@ I am using 8gb/DDR3/1600Mhz with 1TB/500GB SSHD
 
 # NOT Working 
 - Wifi (use USB wifi) 
-- Sound Card (I use USB Sound Card)
 
 # Aulternatives
 - Use generic 3d usb sound card 1-2$
@@ -17,6 +16,7 @@ I am using 8gb/DDR3/1600Mhz with 1TB/500GB SSHD
 # Working
 - Dual Display (1440P)
 - LAN
+- Sound , Driver =>  ALC 1220 + VoodooHDA 2.8.7+optional HD4000 (i needed to install both from multibeast high sierra drivers) 
 
 # installation
 - first , Read installation from here : https://www.tonymacx86.com/threads/unibeast-install-os-x-el-capitan-on-any-supported-intel-based-pc.172672/
