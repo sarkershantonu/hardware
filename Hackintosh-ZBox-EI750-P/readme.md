@@ -37,7 +37,7 @@ And install it. It will take 2/3 min. And you are done.
 
 working : Sound, Bluetooth, LAN
 GPU is not very good at 4k (flickers, need patch), but good in 1080p.
-
+audio = ALC 269 + optional HD3000/HD4000/HD 530HDMI (togather)
 
 # Finally : Its running 
 
