@@ -8,5 +8,6 @@ These are some weekend project i do to pass my good time. :)
 - Mobile
 - Raspberry Pi 3B
 - Raspberry Pi ZERO
-- HP Thin Clients (t610, t610plus)
+- HP Thin Clients (t610, t610 plus, t620)
+
 
