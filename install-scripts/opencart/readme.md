@@ -15,3 +15,24 @@
  FLUSH PRIVILEGES;
  
  EXIT;
+ 
+ # Apache Config Steps 
+ nano /etc/apache2/sites-available/opencart.conf
+
+<VirtualHost *:80>
+     ServerAdmin sarker.shantonu@gmail.com
+     DocumentRoot /var/www/html/opencart/
+     ServerName opencart.com
+     ServerAlias www.opencart.com
+
+     <Directory /var/www/html/opencart/>
+        Options FollowSymlinks
+        AllowOverride All
+        Order allow,deny
+        allow from all
+     </Directory>
+
+     ErrorLog ${APACHE_LOG_DIR}/error.log
+     CustomLog ${APACHE_LOG_DIR}/access.log combined
+
+</VirtualHost>
