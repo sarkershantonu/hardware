@@ -21,3 +21,6 @@
  # Apache Config Steps 
  nano /etc/apache2/sites-available/opencart.conf
 - use the opencart.conf file
+
+# Delete the installation script
+rm -rf /var/www/html/opencart/install/
