@@ -34,3 +34,6 @@
 
 # Delete the installation script(Step5.sh)
 rm -rf /var/www/html/opencart/install/
+
+# Admin UI 
+http://yourIP/opencart/admin/
