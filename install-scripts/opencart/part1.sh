@@ -1,7 +1,7 @@
 #!/bin/sh
 #This is to install apache + mariaDB+ php modules
 apt-get -y update && apt-get -y upgrade
-apt-get -y curl install software-properties-common apache2 mariadb-server mariadb-client
+apt-get -y curl install software-properties-common apache2 mariadb-server mariadb-client mysql-server mysql-client
 sed -i "s/Options Indexes FollowSymLinks/Options FollowSymLinks/" /etc/apache2/apache2.conf
 
 add-apt-repository -y ppa:ondrej/php
