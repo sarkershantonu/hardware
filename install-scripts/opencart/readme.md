@@ -32,5 +32,5 @@
 4. See installation COmplete page 
 //if you have error , you can see in webpage top side for warning. 
 
-# Delete the installation script
+# Delete the installation script(Step5.sh)
 rm -rf /var/www/html/opencart/install/
