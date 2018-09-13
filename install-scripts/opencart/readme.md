@@ -37,3 +37,6 @@ rm -rf /var/www/html/opencart/install/
 
 # Admin UI 
 http://yourIP/opencart/admin/
+
+# A good resource 
+https://websiteforstudents.com/install-opencart-on-ubuntu-16-04-lts-with-apache2-mariadb-and-php-7-1-support/
