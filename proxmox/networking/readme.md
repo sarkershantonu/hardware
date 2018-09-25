@@ -4,4 +4,6 @@
 # Multi NIC example 
 /etc/network/interfaces file example 
 
-https://github.com/sarkershantonu/hardware/blob/master/proxmox/networking/interfaces
+see the file : interfaces
+
+in here two enp2s0 , enp2s0 are bridge to a single virtual network vmbr0
