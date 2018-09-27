@@ -6,3 +6,7 @@
 
 # Tools to see & test 
 - https://download.sysinternals.com/files/SysinternalsSuite.zip
+- https://docs.microsoft.com/en-us/sysinternals/downloads/
+
+# Key Points
+- Demand Based memory management system
