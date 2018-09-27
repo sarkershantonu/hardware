@@ -10,3 +10,4 @@
 
 # Key Points
 - Demand Based memory management system
+- except Itenium all 4k page size in memory 
