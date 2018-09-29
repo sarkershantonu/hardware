@@ -8,6 +8,7 @@ Due to spaca limitation to my thin clien flash (2GB) I had to install debian min
 Install debian netinstaller (i used debian 8) 
 https://cdimage.debian.org/cdimage/archive/8.10.0/amd64/iso-cd/debian-8.10.0-amd64-netinst.iso
 
+if you are using debian 9 , 
 Note : 
 - due to space, I select only ssh , no ther packages with it
 - No UI packages
