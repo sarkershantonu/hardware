@@ -21,6 +21,8 @@ Note :
 - Make your self root (su command) 
 - put this openmediavault.list in /etc/apt/sources.list.d/ 
 
+or you may just run this : add-repo.sh
+
 # Step 3 : install open media valut
 - Copy this omv-install.sh to home directory
 - type command 
