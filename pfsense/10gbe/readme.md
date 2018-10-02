@@ -5,7 +5,7 @@
 
 
 # SFF All-in-one 
-- Optiplex 7010 , 9010
+- Optiplex 7010 , 9010, 990, 9020, 790, 
 
 - EliteDesk 8300
 
