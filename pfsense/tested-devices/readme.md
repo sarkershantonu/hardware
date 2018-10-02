@@ -3,7 +3,7 @@ Contains lists of PC systems that I installed pfsense on
 
 # pfsense x64 on All-in-one/Dual NIC devices
 - Datto 1000 : dual NIC built in 
-- Dell OptiPlex XE SFF (c2d e7400 2.8Ghz/8GB DDR3)[Recommended for experiment and multi packages]
+- Dell OptiPlex XE SFF (c2d e7400 2.8Ghz/8GB DDR3)
 
 # pfsense x64 with Network Cards
 - HP thin client t610
@@ -28,3 +28,6 @@ Contains lists of PC systems that I installed pfsense on
 # For Home use or learning 
 - Thin clents are cheap and conveninet for home learning.
 - If you are want to use as main router, better you need to have backup unit.
+
+# Recommendations :
+- Dell OptiPlex XE SFF (c2d e7400 2.8Ghz/8GB DDR3), its broadcom chip , so better performing in a small package. 
