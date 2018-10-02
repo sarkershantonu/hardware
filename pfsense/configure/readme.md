@@ -1,4 +1,9 @@
 # Web configuration
+
+# Sysinfo
+![SysInfo](pf_SysInfo.JPG)
+
+# Packages
 ![installed packages](pf_installPackages.JPG)
 
 # Gateway rules
