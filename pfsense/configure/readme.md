@@ -1,4 +1,5 @@
 # Web configuration
+![installed packages](pf_installPackages.JPG)
 
 # Gateway rules
 
