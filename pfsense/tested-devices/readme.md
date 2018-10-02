@@ -3,7 +3,7 @@ Contains lists of PC systems that I installed pfsense on
 
 # pfsense x64 on All-in-one/Dual NIC devices
 - Datto 1000 : dual NIC built in 
-- Dell OptiPlex XE SFF (c2d e7400 2.8Ghz/8GB DDR3)
+- Dell OptiPlex XE SFF (c2d e7400 2.8Ghz/8GB DDR3)[Recommended for experiment and multi packages]
 
 # pfsense x64 with Network Cards
 - HP thin client t610
