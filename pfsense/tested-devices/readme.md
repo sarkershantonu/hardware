@@ -1,13 +1,14 @@
 # Tested devices
 Contains lists of PC systems that I installed pfsense on 
 
-# pfsense x64 on All in one device
+# pfsense x64 on All-in-one/Dual NIC devices
 - Datto 1000 : dual NIC built in 
+- Dell OptiPlex XE SFF (c2d e7400 2.8Ghz/8GB DDR3)
 
 # pfsense x64 with Network Cards
 - HP thin client t610
 - HP thin client t610 plus
-- Dell OptiPlex XE SFF (c2d e7400 2.8Ghz/8GB DDR3)
+
 
 # pfsense x86 on All in one device
 - MSI/Smartvue WindBOX II Ms-9a25 : Dual NIC built in
