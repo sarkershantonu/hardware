@@ -61,9 +61,11 @@ Now, it will ask DHCP address allocation range.
 Wait for saving settings. 
 And you will see, pfsense will ask you to goto its address http://192.168.3.1 for web gui. 
 
-# Step : DNS
+# Step : DNS settings in WebGui
 - If you are using this as your main router, use any public DNS like openDNS or Google (8.8.8.8/4)
-- If you are using this with your router (different network than main network), use WAN interface gateway as DNS (or if you have any DNS inside network, like I use pihole). 
+- If you are using this with your router (different network than main network), use WAN interface gateway as DNS 
+
+(or if you have any DNS inside network, like I use pihole). 
 
 # Example : 
 - You have 192.168.1.* network as your router , and you want pfsense in 192.168.3.* netork. 
