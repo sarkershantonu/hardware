@@ -50,7 +50,7 @@ Wait to save the settings.
 - Now , it will ask, new LAN IPV4 address. Use 192.168.3.1 (as down stream IP's default gateway). 
 - Now , choose Subnet Mask bit count= 24 
 (meaning, 3x8bit address.. so 255.255.255.0) . You may choose others like 16/8 to increase ip range but I used 24, to have 256 IPs in my network where valid IP range will be 192.168.3.2-254. (as 0 & 255 are default reserve and gateway is 1) 
-- Now, Provide gateway address 192.168.3.1 
+- [Update : please escape this, no need to provide gateway] Now, Provide gateway address 192.168.3.1 
 (as it is begining of the network block that we have choosen) 
 - keep Blank IPV6 gateway as I wont be using it
 - Now, it will ask, do you want to enable DHCP? Y 
@@ -65,7 +65,7 @@ And you will see, pfsense will ask you to goto its address http://192.168.3.1 fo
 - If you are using this as your main router, use any public DNS like openDNS or Google (8.8.8.8/4)
 - If you are using this with your router (different network than main network), use WAN interface gateway as DNS (or if you have any DNS inside network, like I use pihole). 
 
-Example : 
+# Example : 
 - You have 192.168.1.* network as your router , and you want pfsense in 192.168.3.* netork. 
 so, 
 
