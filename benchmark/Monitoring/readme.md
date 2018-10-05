@@ -1,6 +1,10 @@
 # Monitoring Hardware 
 
-# UI
+# UI : Windows 
+- https://openhardwaremonitor.org/downloads/
+
+# UI : Linux 
+- https://wpitchoune.net/psensor/
 
 # CLI : Linux
--lscpu | grep Mhz
+- CPU : lscpu | grep Mhz
