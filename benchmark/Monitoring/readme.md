@@ -7,4 +7,4 @@
 - https://wpitchoune.net/psensor/
 
 # CLI : Linux
-- CPU : lscpu | grep Mhz
+- CPU : lscpu | grep MHz
