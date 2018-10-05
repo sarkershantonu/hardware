@@ -28,6 +28,8 @@
 # Linux : 
 # Stress tool : 
  - https://people.seas.harvard.edu/~apw/stress/
+ 
+ CLI : stress --cpu -3
 
 # Transcoder : Handbrake
 - https://handbrake.fr/
