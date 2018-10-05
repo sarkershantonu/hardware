@@ -8,3 +8,4 @@
 
 # CLI : Linux
 - CPU : lscpu | grep MHz
+- Temp : sensors
