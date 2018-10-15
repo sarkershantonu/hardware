@@ -9,4 +9,10 @@
 
 # Basic Commands
 
-# install windows with VisualVM
+# install in windows with VisualVM
+
+# Install in Linux with Visual VM 
+
+# Install in Proxmox
+
+# install Redhat with KVM
