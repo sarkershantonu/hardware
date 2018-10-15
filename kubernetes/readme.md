@@ -8,3 +8,5 @@
 2. install-minikube.sh
 
 # Basic Commands
+
+# install windows with VisualVM
