@@ -10,7 +10,7 @@
 # Basic Commands
 
 # install in windows with VisualVM
-- Install Visual VM 
+- Install Visual VM /docker tools for windows
 - Make a folder in you home directory for kubernetese 
 - 
 
