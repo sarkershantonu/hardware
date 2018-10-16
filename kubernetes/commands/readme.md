@@ -1,4 +1,4 @@
-# Useful commandsiwth minikub
+# Useful commands with minikub
 
 minikub start 
 
