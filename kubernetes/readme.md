@@ -10,6 +10,9 @@
 # Basic Commands
 
 # install in windows with VisualVM
+- Install Visual VM 
+- Make a folder in you home directory for kubernetese 
+- 
 
 # Install in Linux with Visual VM 
 
