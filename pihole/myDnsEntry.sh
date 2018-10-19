@@ -6,3 +6,4 @@ pihole -a -r mysql.shantonu.home 192.168.1.15
 pihole -a -r plex.shantonu.home 192.168.1.16
 pihole -a -r opencart.shantonu.home 192.168.1.17
 pihole -a -r router.shantonu.home 192.168.1.1
+pihole -a -r pve.shantonu.home 192.168.1.2
