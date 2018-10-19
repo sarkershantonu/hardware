@@ -33,7 +33,10 @@ C. Download Multibeast 8.2.3 (https://www.tonymacx86.com/resources/multibeast-el
 - Boot loader UEFI 
 - Customize/Definations/Mac Pro Ratina 11,2
 
-And install it. It will take 2/3 min. And you are done. 
+And install it. It will take 2/3 min. And you are done.
+
+sounds driver is not stable. 
+
 
 working : Sound, Bluetooth, LAN
 GPU is not very good at 4k (flickers, need patch), but good in 1080p.
