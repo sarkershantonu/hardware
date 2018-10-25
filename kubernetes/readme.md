@@ -1,4 +1,6 @@
 # kubernetes in proxmox
+- best option
+
 
 # Pre-requsit Linux
 - KVM installed , this examples are valid with proxmox(a debian based KVM hypervisor)
