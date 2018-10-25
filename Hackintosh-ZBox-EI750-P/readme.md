@@ -57,3 +57,6 @@ audio = ALC 269 + optional HD3000/HD4000/HD 530HDMI (togather)
 ![Display-GPU](GPU.png)
 
 ![LAN](lan.png)
+
+
+One of the best hackinto 
