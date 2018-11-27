@@ -4,6 +4,7 @@
 # Backup
 ![Backup](./2_backup.PNG)
 
+![Process/Log](./3_backupProcess.PNG)
 # Restore VMs
 qmrestore _backup_file _id_
 
