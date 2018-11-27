@@ -1,7 +1,8 @@
 # Backup &  Restore
 
 
-# Backup 
+# Backup
+![Backup](./2_backup.PNG)
 
 # Restore VMs
 qmrestore _backup_file _id_
