@@ -10,7 +10,7 @@ deb http://download.proxmox.com/debian/pve stretch pve-no-subscription
 
 This will look like 
 
-![source.list file example](source_list_proxmox.JPG)
+![source.list file example](./source_list_proxmox.JPG)
 
 # All VM configuration path
 /etc/pve/qemu-server/
