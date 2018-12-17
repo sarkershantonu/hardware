@@ -9,3 +9,4 @@
 # Influx DB settings 
 
 # Grafana Graphs
+- Runs @ 3000 port defaults
