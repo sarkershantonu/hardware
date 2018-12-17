@@ -13,3 +13,6 @@ https://www.servethehome.com/creating-the-ultimate-virtualization-and-container-
 - add this line in end of vm config file
 
 args: -device AC97,addr=0x18
+
+# Must follow 
+1. Organize sources if free usages
