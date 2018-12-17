@@ -10,3 +10,4 @@
 
 # Grafana Graphs
 - Runs @ 3000 port defaults
+- credentials : admin,admin
