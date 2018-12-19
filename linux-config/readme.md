@@ -1,3 +1,0 @@
-# My regular linux config 
-
-
