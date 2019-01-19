@@ -8,6 +8,7 @@ Contains lists of PC systems that I installed pfsense on
 # pfsense x64 with Network Cards
 - HP thin client t610
 - HP thin client t610 plus
+- HP Elite 8300
 
 
 # pfsense x86 on All in one device
