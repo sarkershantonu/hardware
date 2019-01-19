@@ -9,6 +9,7 @@ Contains lists of PC systems that I installed pfsense on
 - HP thin client t610
 - HP thin client t610 plus
 - HP Elite 8300
+- Dell Optiplex XE
 
 
 # pfsense x86 on All in one device
