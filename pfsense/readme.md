@@ -50,6 +50,7 @@ Wait to save the settings.
 - Now , it will ask, new LAN IPV4 address. Use 192.168.3.1 (as down stream IP's default gateway). 
 - Now , choose Subnet Mask bit count= 24 
 (meaning, 3x8bit address.. so 255.255.255.0) . You may choose others like 16/8 to increase ip range but I used 24, to have 256 IPs in my network where valid IP range will be 192.168.3.2-254. (as 0 & 255 are default reserve and gateway is 1) 
+
 - [Update : please escape this, no need to provide gateway] Now, please dont Provide any gateway address
 
 - keep Blank IPV6 gateway as I wont be using it
