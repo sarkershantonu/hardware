@@ -4,6 +4,8 @@
 - T610 
 ![hdds](t610_1.jpg)
 
+The miniPcie sata card
+
 ![hdds2](t610_2.jpg)
 
 # Software
