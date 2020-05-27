@@ -2,6 +2,10 @@
 
 # Hardware list
 - T610 
+![hdds](t610_1.jpg)
+
+![hdds2](t610_2.jpg)
+
 # Software
 - OS : Debian : 
 - 
