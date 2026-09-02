@@ -1,8 +1,16 @@
 I have bought intel Nuc to use in my living room. I will include my experiments and any custom script i have to use in here.[todo] 
 
 # NUC8i7HVK
-- 
+- Main Specifications
+- Block Diagram
+![block](/images/NUC8i7HVK_block_diagram.png)
 
+- 
+- 
+### Drivers 
+- Windows Update
+- Linux Does not need extra drivers
+- 
 
 ### [Reddit Reply](https://www.reddit.com/r/intelnuc/comments/1si1ybn/planning_to_get_a_nuc8i7hvk_hades_canyon_is_it/) 
 ``` 
