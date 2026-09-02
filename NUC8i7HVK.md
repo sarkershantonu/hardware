@@ -2,15 +2,16 @@ I have bought intel Nuc to use in my living room. I will include my experiments 
 
 # NUC8i7HVK
 - Main Specifications
-- Block Diagram
-![block](/images/NUC8i7HVK_block_diagram.png)
+- [Manual](https://www.mouser.com/datasheet/2/612/NUC8i7HVK_TechProdSpec-1316768.pdf)
 
-- 
-- 
+
+### Block Diagram
+![block diagram](/images/NUC8i7HVK_block_diagram.png)
+
 ### Drivers 
 - Windows Update
 - Linux Does not need extra drivers
-- 
+- RGB driver in linux does not work(work in progress)
 
 ### [Reddit Reply](https://www.reddit.com/r/intelnuc/comments/1si1ybn/planning_to_get_a_nuc8i7hvk_hades_canyon_is_it/) 
 ``` 
