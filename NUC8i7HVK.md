@@ -17,14 +17,14 @@ I have bought intel Nuc to use in my living room. I will include my experiments 
 ``` 
 I think, its still a good option in 2026. 
 
-I bought last week from Marketplace of $200(32gb/1Tb). Working smoodthly with Bazzite . I installed SteamOS also, but trying bazzite for experimenting. I did some basics steps to avoid some errors
-1. Updated Bios to latest (using USB)
-2. Disable iGpu (since all display out Ports are conneted to Radeon GPU, dont really need igpu)
-3. SteamOs & Bazzite both installed without issies but frist boot was with bluish screen (HDR10 compatibility), after updating all packages, it was fixed. 
+I bought last week from Marketplace. Working smoothly with Bazzite. I installed SteamOS also, but trying Bazzite for experimenting. I did some basic steps to avoid some errors
+1. Updated BIOS to the latest (using USB)
+2. Disabled iGPU (since all display output ports are connected to the Radeon GPU, don't really need iGPU)
+3. SteamOS & Bazzite both installed without issues, but the first boot was with greenish screen (HDR10 compatibility), after updating all packages, it was fixed. 
 4. Outof the box wifi, bluetooth, thunderbolt(i have 10gbe NIC & external nvme) works.
-5. RGB , i can change from BIOS, but still not working with openRGB. If anyone knows solution, a great thanks. 
-6. xbox Controllers are working. (i dont have other controllers)
-7. Games are very smoodth , i mostly run 1080p or 900p 60hz on TV
+5. RGB : i can change from BIOS, but still doesn't work with OpenRGB. If anyone knows a solution, many thanks. 
+6. Xbox controllers are working. (i dont have other controllers)
+7. Games are very smoodth, i mostly run 1080p or 900p 60hz on TV
 8. Thermal : When runing CPUz, after 7 min, i see package temp 100c. And All cores 3.9Ghz, 
 9. Overclocking : I was able to run 2 cores at 4.4. But, new thermal solution should be applied before any overclocking(i think). I will be applying PTM7950 for better thermals. 
 
